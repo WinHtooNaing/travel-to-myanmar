@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-to-myanmar/static/css/main.afef4278.css",
+    "main.js": "/travel-to-myanmar/static/js/main.18156138.js",
+    "index.html": "/travel-to-myanmar/index.html",
+    "main.afef4278.css.map": "/travel-to-myanmar/static/css/main.afef4278.css.map",
+    "main.18156138.js.map": "/travel-to-myanmar/static/js/main.18156138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afef4278.css",
+    "static/js/main.18156138.js"
+  ]
+}
